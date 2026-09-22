@@ -146,5 +146,3 @@ Quy trình gồm các bước:
 ## Liên hệ tư vấn
 
 > Quý Doanh nghiệp có nhu cầu **thiết kế, thi công hệ thống xử lý nước thải** vui lòng liên hệ **Zalo/Hotline: 0938.857.768** hoặc gửi thư mời chào giá về **congthongtin@moitruonghopnhat.com**.
-
-[Tìm hiểu dịch vụ thiết kế và thi công hệ thống xử lý nước thải](https://moitruonghopnhat.com/dich-vu-thiet-ke-va-thi-cong-he-thong-xu-ly-nuoc-thai/)
